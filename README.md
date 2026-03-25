@@ -2,16 +2,8 @@
 
 # 😴 Driver Drowsiness Detection — OpenCV + Keras CNN
 
-[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![Pygame](https://img.shields.io/badge/Pygame-Alarm-green?style=for-the-badge)](https://www.pygame.org/)
-[![Real-Time](https://img.shields.io/badge/Real--Time-Webcam-brightgreen?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](../LICENSE.md)
-
 > A **real-time driver drowsiness detection system** that uses **Haar Cascade classifiers** to locate the driver's eyes in every webcam frame and a **custom-trained CNN** (`cnnCat2.h5`) to classify each eye as **Open** or **Closed** — sounding a `pygame` alarm when drowsiness is detected.
 
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
 
 </div>
 
@@ -306,9 +298,5 @@ python drowsinessdetection.py
 ---
 
 <div align="center">
-
-Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
-
-⭐ Star the main repo if this helped you!
 
 </div>
